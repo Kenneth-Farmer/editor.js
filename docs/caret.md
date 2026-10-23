@@ -7,7 +7,7 @@ Caret class implements basic Module class that holds User configuration
 and default Editor.js instances
 
 ## Properties
-
+This is a change.
 ## Methods
 
 ### setToBlock
