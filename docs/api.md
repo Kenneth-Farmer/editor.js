@@ -8,6 +8,8 @@ Most actual API described by [this interface](../types/api/index.d.ts).
 
 ---
 
+This is a change.
+
 Tools have access to the public methods provided by Editor.js API Module. Plugin and Tune Developers
 can use Editor\`s API as they want.
 
