@@ -50,6 +50,11 @@ Method that specifies how to merge two `Blocks` of the same type, for example on
 Method does accept data object in same format as the `Render` and it should provide logic how to combine new
 data with the currently stored value.
 
+This is a test 
+
+## Another Merge Test
+
+
 ## Internal Tool Settings
 
 Options that Tool can specify. All settings should be passed as static properties of Tool's class.
