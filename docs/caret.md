@@ -1,5 +1,7 @@
 # Editor.js Caret Module
 
+## Test
+
 The `Caret` module contains methods working with caret. Uses [Range](https://developer.mozilla.org/en-US/docs/Web/API/Range) methods to navigate caret
 between blocks. 
 
