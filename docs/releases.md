@@ -4,6 +4,10 @@
 
 This is an edit.
 
+## This is a new branch.
+
+This is another line.
+
 
 The project has two main branches: `master` and `next`.
 
@@ -28,6 +32,8 @@ You need to bump the part of version according the changes:
 Pre-release versions may contain additional `-rc.*` suffix.
 
 ## Release publishing
+
+I'm making a change here.
 
 Drafts for new releases are created automatically via [create-a-release-draft.yml](.github/workflows/create-a-release-draft.yml)
 workflow when pull request to `next` branch was merged with an updated version in the package.json file.
