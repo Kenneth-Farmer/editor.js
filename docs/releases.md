@@ -2,6 +2,9 @@
 
 ## Branches
 
+This is an edit.
+
+
 The project has two main branches: `master` and `next`.
 
 Branch `master` contains the latest stable version of the editor.
